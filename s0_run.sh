@@ -1,0 +1,2 @@
+export HF_HUB_ENABLE_HF_TRANSFER=True
+python load_dataset.py
